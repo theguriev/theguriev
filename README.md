@@ -1,17 +1,24 @@
-[](./me.gif)
-### Hello world 👋
+<div align="center">
+  <img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+  <br>
+</div>
 
-<!--
-**theguriev/theguriev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # Hello, world! 👋
+  ## Welcome to my profile. I'm Eugen.
 
-Here are some ideas to get you started:
+  #### You can find me on:
+  [LinkedIn](https://www.linkedin.com/in/therealguriev/)
+  [Instagram](https://www.instagram.com/theguriev/)
+  [Telegram](https://t.me/theguriev)
+- 🔭 I’m currently working full-time at Docler Holding.
+- 🌱 I’m currently learning functional programming, AI, Algorithms.
+- 💬 Ask me about all that's computer engineering.
+- 📫 How to reach me: [theguriev@gmail.com](theguriev@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Some stats 🙂
+![Visits](https://badges.pufler.dev/visits/theguriev/theguriev)
+![Repos](https://badges.pufler.dev/repos/theguriev)
+![Gists](https://badges.pufler.dev/gists/theguriev)
+
+

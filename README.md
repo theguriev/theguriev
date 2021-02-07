@@ -1,4 +1,4 @@
-[](./me.gif)
+[Eugen Guriev](me.gif)
 ### Hello world 👋
 
 <!--

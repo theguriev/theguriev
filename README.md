@@ -1,4 +1,5 @@
-### Hi there 👋
+[](./me.gif)
+### Hello world 👋
 
 <!--
 **theguriev/theguriev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

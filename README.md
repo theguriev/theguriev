@@ -3,13 +3,13 @@
   <br>
 </div>
 
-  # Hello, world! 👋
-  ## Welcome to my profile. I'm Eugen.
+# Hello, world! 👋
+Welcome to my profile. I'm Eugen.
 
-  #### You can find me on:
-  [LinkedIn](https://www.linkedin.com/in/therealguriev/)
-  [Instagram](https://www.instagram.com/theguriev/)
-  [Telegram](https://t.me/theguriev)
+#### You can find me on:
+[LinkedIn](https://www.linkedin.com/in/therealguriev/)
+[Instagram](https://www.instagram.com/theguriev/)
+[Telegram](https://t.me/theguriev)
 - 🔭 I’m currently working full-time at Docler Holding.
 - 🌱 I’m currently learning functional programming, AI, Algorithms.
 - 💬 Ask me about all that's computer engineering.
